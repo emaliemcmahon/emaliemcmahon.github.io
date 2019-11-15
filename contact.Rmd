@@ -1,0 +1,13 @@
+---
+title: "Contact"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+If you have an questions, I would love to hear from you: 
+
+emaliemcmahon@gmail.com<br>
+emaliemcmahon@jhu.edu<br>
+
+Or connect with me on GitHub, Twitter, or Linkedin (links in top right).

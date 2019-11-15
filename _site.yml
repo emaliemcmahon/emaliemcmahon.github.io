@@ -1,0 +1,20 @@
+name: "Emalie McMahon"
+output_dir: "."
+navbar:
+  title: "Emalie McMahon"
+  left:
+    - text: "About Me"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/emaliemcmahon
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/EmalieMcmahon
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emalie-mcmahon/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
