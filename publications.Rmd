@@ -18,10 +18,10 @@ McMahon, E., Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri
 </div>
 <br><br>
 
-## Corbetta et al (2017)
+## Corbetta et al (2018)
 
 <div class="column-left">
-[<img src="images/Corbetta2018.png" style="width:75%; border:5px solid; margin-right: 20px" align="left">](files/Corbetta2017_KinesiologyReview.pdf)
+[<img src="images/Corbetta2018.png" style="width:75%; border:5px solid; margin-right: 20px" align="left">](files/Corbetta2018_KinesiologyReview.pdf)
 </div>
 
 <div class="column-right">
