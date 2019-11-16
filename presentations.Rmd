@@ -4,4 +4,15 @@ output: html_document
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/underdevelopmentlogo.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+<b>McMahon, E.</b>, Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri-Pashkam, M.  Humans and Machine Learning Classifiers Can Predict the Goal of an Action Regardless of Social Motivations of the Actor. Vision Science Society; May 17 - 22, 2019; St. Petersburg, FL. [poster](files/McMahon_vss2019.pdf)
+
+<b>McMahon, E.</b>, Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri-Pashkam, M. Exploring Predictive Information in Action with Psychophysics and Machine Learning. Society for Neuroscience; Nov. 3 - 7, 2018; San Diego, CA. [poster](files/SfN2018_McMahon.pdf)
+
+<b>McMahon, E.</b>, Gonzalez, R., Nakayama, K., Ungerleider, L.G. & Vaziri-Pashkam, M. Understanding Action
+Prediction with Machine Learning and Psychophysics. Conference on Cognitive Computational
+Neuroscience; Sept. 5 – 8, 2018; Philadelphia, PA. [video](ccn2018.html)
+
+Corbetta, D., Wiener, R.F., <b>McMahon, E.</b>, & Thurman, S.L. Duration of object visual encoding on precision reaching in 9-month-old infants. International Congress of Infant Studies, June 30 – July 3, 2018;
+Philadelphia, PA.
+
+<b>McMahon, E.</b>, Wiener, R., DiMercurio, A., Connell, J., and Corbetta, D. An Analysis of Prospective Reaching in 9-Month-Old Infants Using Eye-Tracking. North American Society for Psychology of Sport and Physical Activity; June 4 – 7, 2017; San Diego, CA.
