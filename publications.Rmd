@@ -1,11 +1,20 @@
 ---
-output: html_document
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+<br>
+
+## McMahon et al (2019)
+[<img src="images/McMahon2019.png" style="width:20%; border:5px solid; margin-right: 20px" align="left">](files/McMahon2019_JoV.pdf)
 
 McMahon, E., Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri-Pashkam, M. (2017) Understanding Action Prediction with Machine Learning and Psychophysics. <i>Journal of Vision</i> 19(7): 1-16.
-[pdf](files/McMahon2019_JoV.pdf)
+<br><br>
 
-Corbetta, D., Wiener, R. F., Thurman, S. L., & McMahon, E. (2017). The Embodied Origins of Infant
-Reaching: Implications for the Emergence of Eye-Hand Coordination. <i>Kinesiology Review</i> 7: 10-17.  [pdf](files/Corbetta2017_KinesiologyReview.pdf)
+## Corbetta et al (2017)
+[<img src="images/Corbetta2018.png" style="width:20%; border:5px solid; margin-right: 20px" align="left">](files/Corbetta2017_KinesiologyReview.pdf)
+
+Corbetta, D., Wiener, R. F., Thurman, S. L., & McMahon, E. (2018). The Embodied Origins of Infant
+Reaching: Implications for the Emergence of Eye-Hand Coordination. <i>Kinesiology Review</i> 7: 10-17.
