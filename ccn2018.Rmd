@@ -4,4 +4,4 @@ output: html_document
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lW9jLKLpxoE" frameborder="0" allowfullscreen></iframe>
+<iframe width="704" height="396" src="https://www.youtube.com/embed/lW9jLKLpxoE" frameborder="0" allowfullscreen></iframe>
