@@ -1,0 +1,11 @@
+---
+output: html_document
+---
+
+<br> 
+
+## CV
+[Download](files/EmalieMcMahonCV.pdf)
+
+<img src="files/EmalieMcMahonCV.pdf" alt="cv_p1" width="850" height="1000" align="center">
+<img src="files/EmalieMcMahonCV_p2.pdf" alt="cv_p2" width="850" height="1000" align="center">

@@ -14,7 +14,7 @@ output:
 </div>
 
 <div class="column-right">
-McMahon, E., Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri-Pashkam, M. (2017) Understanding Action Prediction with Machine Learning and Psychophysics. <i>Journal of Vision</i> 19(7): 1-16.
+McMahon, E., Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri-Pashkam, M. (2017) Subtle predictive movements reveal actions regardless of social context. <i>Journal of Vision</i>, 19(7): 1-16.
 </div>
 <br><br>
 
@@ -26,5 +26,5 @@ McMahon, E., Zheng, C. Y., Pereira, F., Gonzalez, R., Ungerleider, L.G. & Vaziri
 
 <div class="column-right">
 Corbetta, D., Wiener, R. F., Thurman, S. L., & McMahon, E. (2018). The Embodied Origins of Infant
-Reaching: Implications for the Emergence of Eye-Hand Coordination. <i>Kinesiology Review</i> 7: 10-17.
+Reaching: Implications for the Emergence of Eye-Hand Coordination. <i>Kinesiology Review</i>, 7: 10-17.
 </div>
