@@ -7,6 +7,9 @@ output:
 
 <br>
 
+## Kim et al (in prep)
+Kim, D., McMahon, E., Mehr, S.A., Nakayama, K., Spelke, E.S., & Vaziri-Pashkam, M. The ability to predict actions of others from distributed cues is still developing in 6- to 8-year-old children. <i>in prep</i> 
+
 ## McMahon et al (2019)
 
 <div class="column-left">
