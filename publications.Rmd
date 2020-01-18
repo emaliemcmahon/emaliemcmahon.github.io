@@ -7,7 +7,7 @@ output:
 
 <br>
 
-## Kim et al (in prep)
+## Kim et al (2019)
 
 <div class="column-left">
 [<img src="images/Kim2019.png" style="width:75%; border:5px solid; margin-right: 20px" align="left">](files/Kim2019_psyarxiv.pdf)
