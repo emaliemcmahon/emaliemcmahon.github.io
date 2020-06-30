@@ -8,17 +8,12 @@ output:
 <br>
 
 ## VSS 2020
-<div class="column-left">
-[<img src="images/McMahon_vss2020.png" style="width:75%; border:5px solid; margin-right: 20px" align="left">](vss2020.html)
-</div>
-
 <div class="column-right">
-<b>McMahon, E.</b>, Firestone, C., & Isik, L. Visual representations of social and physical causality. Vision Science Society; May 15 - 20, 2019; St. Petersburg, FL.
-</div>
-<br><br><br>
+Vaziri-Pashkma, M., Woodward, K., <b>McMahon, E.</b>, & Ungerleider, L.G. Representations for Grasp Relevant Parts of Objects in the Human Intraparietal Sulcus. Vision Science Society; June 19 - 24, 2020; Online.
+<br><br>
 
-## VSS 2020
-Woodward, K., <b>McMahon, E.</b>, Ungerleider, L.G., Vaziri-Pashkma, M., Connell, J., and Corbetta, D. Similarity of objects based on the way they are grasped. Vision Science Society; May 15 - 20, 2019; St. Petersburg, FL.
+<div class="column-right"> 
+Woodward, K., <b>McMahon, E.</b>, Vaziri-Pashkma, M., & Ungerleider, L.G. Similarity of objects based on the way they are grasped. Vision Science Society; June 19 - 24, 2020; Online. 
 <br><br>
 
 ## VSS 2019
