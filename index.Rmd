@@ -6,8 +6,8 @@ output: html_document
 
 <img src="images/chicken_dance.GIF" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
-I am a 2nd year PhD student in the Johns Hopkins University [Cognitive Science ](https://cogsci.jhu.edu/graduate/phd-program/) program. I work with Professors [Leyla Isik](https://www.isiklab.org) and [Mick Bonner](https://bonnerlab.org).
+You may never have seen the chicken dance on the left, but you are easily able to interpret what is occuring. You also are able to make complex inferences about the relation of the two men's actions. How is the mind able to understand complex human actions and social interactions? I aim to address these types of questions by investigating human behavior and action representations in the human mind with neuroimaging and in computer vision systems using computational modeling. 
 
-I am interested in human action and social interaction perception. I use neuroimaging, computational modeling, and human behavior. 
+I am currently a 2nd year PhD student in the Johns Hopkins University [Cognitive Science ](https://cogsci.jhu.edu/graduate/phd-program/) program. suprevised by [Leyla Isik](https://www.isiklab.org) and [Michael Bonner](https://bonnerlab.org).
 
 Prior to coming to JHU, I was a research assistant at the National Institute of Mental Health working with Drs. [Leslie Ungerleider](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/leslie-ungerleider.shtml) and [Maryam Vaziri-Pashkam](https://mvaziri.github.io/Homepage/Bio.html). I received a BA in neuroscience from the University of Tennessee, Knoxville in 2017.

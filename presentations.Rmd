@@ -10,7 +10,7 @@ output:
 ## VSS 2020
 <div class="column-right">
 Vaziri-Pashkma, M., Woodward, K., <b>McMahon, E.</b>, & Ungerleider, L.G. Representations for Grasp Relevant Parts of Objects in the Human Intraparietal Sulcus. Vision Science Society; June 19 - 24, 2020; Online.
-<br><br>
+<br>
 
 <div class="column-right"> 
 Woodward, K., <b>McMahon, E.</b>, Vaziri-Pashkma, M., & Ungerleider, L.G. Similarity of objects based on the way they are grasped. Vision Science Society; June 19 - 24, 2020; Online. 
@@ -46,12 +46,13 @@ Woodward, K., <b>McMahon, E.</b>, Vaziri-Pashkma, M., & Ungerleider, L.G. Simila
 Prediction with Machine Learning and Psychophysics. Conference on Cognitive Computational
 Neuroscience; Sept. 5 – 8, 2018; Philadelphia, PA.
 </div>
-<br>
+<br><br>
 
 ## ICIS 2018
 Corbetta, D., Wiener, R.F., <b>McMahon, E.</b>, & Thurman, S.L. Duration of object visual encoding on
 precision reaching in 9-month-old infants. International Congress of Infant Studies, June 30 – July 3,
 2018; Philadelphia, PA.
+<br>
 
 ## NASPSPA 2017
 <b>McMahon, E.</b>, Wiener, R., DiMercurio, A., Connell, J., and Corbetta, D. An Analysis of Prospective Reaching in 9-Month-Old Infants Using Eye-Tracking. North American Society for Psychology of Sport and Physical Activity; June 4 – 7, 2017; San Diego, CA.
