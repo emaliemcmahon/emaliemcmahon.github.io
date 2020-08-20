@@ -20,8 +20,7 @@ My great loves are hiking with my dog and boyfriend, cycling, cooking, reading, 
 
 ## Research Interests
 
-<img src="images/chicken_dance.GIF" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/beach_play.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-You may never have seen the chicken dance on the left, but you are easily able to interpret what is occuring. You also are able to make complex inferences about the relation of the two men's actions. How is the mind able to understand complex human actions and social interactions? I aim to address these types of questions by investigating human behavior and action representations in the human mind with neuroimaging and in computer vision systems with computational modeling. 
-
+Look at the images of the children building a sandcastle at night. You are able to make complex inferences about why the children are wearing headlamps, what they are doing, and their interactions with each other. While state-of-the-art computer vision algorithms may be able to identify the kids or some of the objects in the image, the understanding is dramatically impaired compared to human cognition. How can we build algorithms that perform like humans? My research is inspired by the idea that the best why to design these algorithms is through better understanding human cognition using behavior, neuroimaging, and computational modeling 
 
