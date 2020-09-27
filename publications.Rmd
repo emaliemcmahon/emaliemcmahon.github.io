@@ -19,14 +19,14 @@ Lam, K. C., Pereira, F., & Vaziri-Pashkam, M., Woodard, K., & McMahon, E. (2020,
 <br><br>
 
 
-## Kim et al (2020)
+## McMahon et al (2020)
 
 <div class="column-left">
 [<img src="images/Kim2020.png" style="width:75%; border:5px solid; margin-right: 20px" align="left">](files/Kim2020_psyarxiv.pdf)
 </div>
 
 <div class="column-right">
-Kim, D., McMahon, E., Mehr, S. A., Nakayama, K., Spelke, E., & Vaziri-Pashkam, M. (2020, January 18). The ability to predict actions of others from distributed cues is still developing in children. <i>PsyArXiv.</i> https://doi.org/10.31234/osf.io/pu3tf
+McMahon, E., Kim, D., Mehr, S. A., Nakayama, K., Spelke, E., & Vaziri-Pashkam, M. (2020, January 18). The ability to predict actions of others from distributed cues is still developing in children. <i>PsyArXiv.</i> https://doi.org/10.31234/osf.io/pu3tf
 </div>
 <br><br>
 
