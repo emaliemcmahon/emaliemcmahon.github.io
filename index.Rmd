@@ -1,5 +1,5 @@
 ---
-title: "Emalie McMahon"
+title: "McMahon: Index"
 output: html_document
 ---
 

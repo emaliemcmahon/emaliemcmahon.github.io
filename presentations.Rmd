@@ -9,11 +9,9 @@ output:
 <br>
 
 ## VSS 2020
-<div class="column-right">
 Vaziri-Pashkma, M., Woodward, K., <b>McMahon, E.</b>, & Ungerleider, L.G. Representations for Grasp Relevant Parts of Objects in the Human Intraparietal Sulcus. Vision Science Society; June 19 - 24, 2020; Online.
 <br>
 
-<div class="column-right"> 
 Woodward, K., <b>McMahon, E.</b>, Vaziri-Pashkma, M., & Ungerleider, L.G. Similarity of objects based on the way they are grasped. Vision Science Society; June 19 - 24, 2020; Online. 
 <br><br>
 
