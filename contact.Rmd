@@ -1,5 +1,5 @@
 ---
-title: "McMahon: Contact"
+title: "Contact Information"
 output: html_document
 ---
 
