@@ -49,6 +49,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - National Eye Institute Early Career Scientist Travel Grant to attend the Vision Science Society annual meeting
     - year: 2019
       items:
         - National Science Foundation Graduate Research Fellowship

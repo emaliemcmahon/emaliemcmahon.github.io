@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year PhD student working with Drs. Leyla Isik and Michael Bonner. Broadly, I am interested in visual neuroscience. My PhD work has focused on social vision. In particular, my work has investigated how social visual features are organized in the human brain using fMRI, intracranial recordings, and soon EEG.  
+I am a 5th year PhD student working with Drs. Leyla Isik and Michael Bonner. Broadly, I am interested in visual and social cognition. My PhD work has focused on social vision. In particular, my work has investigated how social visual features are organized in the human brain using fMRI, intracranial recordings, and EEG.  
 
 Prior to JHU, I attend the University of Tennessee, Knoxville and was then a research assist with Leslie Ungerleider and Maryam Vaziri-Pashkam at NIMH. 
 
-In my free time, I enjoy cooking and hiking with my partner and dog. I am also a hobby science fiction enthusiast and have brought that interest to a course that I will be teaching in winter 2023 titled "Cognitive Science Fiction."
+In my free time, I enjoy cooking and hiking with my partner and dog. I am also a hobby science fiction enthusiast and have brought that interest to a course that I taught in winter 2023 titled "Cognitive Science Fiction."
