@@ -5,34 +5,15 @@
       value: Emalie McMahon
     # - name: Date of Birth
     #   value: 14th March 1879
-    - name: Languages
-      value: English
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Masters of Arts
-      institution: Johns Hopkins University, Baltimore, MD
-      year: 2021
-      description:
-        - Concentration in Cognitive Science
-        - Earned as part of PhD program
-
-    - title: Bachelors of Arts
-      institution: University of Tennessee, Knoxville, TN
-      year: 2017
-      description:
-        - Major in Neuroscience
-        - Minor in Chemistry
 
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate researcher
-      institution: Johns Hopkins University, Baltimore, MD
-      year: 2019 - current
+    - title: Postdoctoral research fellow
+      institution: Massachusetts Istitute of Technology, Cambridge, MA
+      year: beginning 2025
       description:
-        - Supervised by Leyla Isik and Michael Bonner
+        - Supervised by Nancy Kanwisher
 
     - title: Research assistant
       institution: National Institute of Mental Health, Bethesda, MD
@@ -45,6 +26,23 @@
       year: 2015 - 2017
       description:
         - Supervised by Daniela Corbetta
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in 
+      institution: Johns Hopkins University, Baltimore, MD
+      year: 2024
+      description:
+        - Computational Cognitive Science
+        - Advised by Leyla Isik and Michael F. Bonner
+
+    - title: Bachelors of Arts
+      institution: University of Tennessee, Knoxville, TN
+      year: 2017
+      description:
+        - Major in Neuroscience
+        - Minor in Chemistry
 
 - title: Honors and Awards
   type: time_table
