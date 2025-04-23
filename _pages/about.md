@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I recenly defend my PhD in Computational Cognitive Science at Johns Hopkins under the supervision of Drs. Leyla Isik and Michael Bonner. Starting in January 2025, I will be a postdoc in the lab of Nancy Kanwisher at MIT. Broadly, I am interested in visual and social cognition. My PhD work has focused on social vision. In particular, my work has investigated how social visual features are organized in the human brain using fMRI, intracranial recordings, and EEG.  
+I  am a postdoc in the lab of Nancy Kanwisher at MIT. I recenly defend my PhD in Computational Cognitive Science at Johns Hopkins under the supervision of Drs. Leyla Isik and Michael Bonner. Broadly, I am interested in visual perception and social cognition. I use a variety of methods including human behavior, neuroimaging (fMRI, intracranial recordings, and EEG), and computational modeling. 
 
 Prior to JHU, I attend the University of Tennessee, Knoxville and was then a research assist with Leslie Ungerleider and Maryam Vaziri-Pashkam at NIMH. 
 
