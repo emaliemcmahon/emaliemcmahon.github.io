@@ -27,12 +27,14 @@ jobs:
         id: pages
         
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+        run: |
+          bundle install
+          bundle exec jekyll build
           
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: './_site'
 
   deploy:
     environment:
