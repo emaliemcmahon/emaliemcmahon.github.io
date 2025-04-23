@@ -17,6 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.1'  # Explicit version required
           bundler-cache: true
       - uses: actions/configure-pages@v4
         id: pages
