@@ -22,7 +22,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in 
+    - title: PhD
       institution: Johns Hopkins University, Baltimore, MD
       year: 2024
       description:
@@ -40,21 +40,16 @@
   type: time_table
   contents:
     - year: 2025
-      items:
-        - Cognitive Sciences Society Glushko Dissertation Award
+      title: Cognitive Sciences Society Glushko Dissertation Award
     - year: 2023
-      items:
-        - National Eye Institute Early Career Scientist Travel Grant to attend the Vision Science Society annual meeting
+      title: National Eye Institute Early Career Scientist Travel Grant to attend the Vision Science Society annual meeting
     - year: 2019
-      items:
-        - National Science Foundation Graduate Research Fellowship
+      title: National Science Foundation Graduate Research Fellowship
     - year: 2018
-      items:
-        - Cognitive Computational Neuroscience Student Travel Award
+      title: Cognitive Computational Neuroscience Student Travel Award
     - year: 2017
-      items:
-        - National Institutes of Health Research Training Award
-        - UTK Neuroscience Outstanding Graduate in Neuroscience
+      title: National Institutes of Health Research Training Award
+    - year: 2017
+      title: UTK Neuroscience Outstanding Graduate in Neuroscience
     - year: 2013
-      items:
-        - UTK Chancellor's Honors Scholarship
+      title: UTK Chancellor's Honors Scholarship
