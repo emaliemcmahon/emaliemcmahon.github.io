@@ -3,7 +3,7 @@
   contents:
     - title: Postdoctoral research fellow
       institution: Massachusetts Istitute of Technology, Cambridge, MA
-      year: beginning 2025
+      year: 2025 - current
       description:
         - Supervised by Nancy Kanwisher
 
@@ -39,6 +39,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Cognitive Sciences Society Glushko Dissertation Award
     - year: 2023
       items:
         - National Eye Institute Early Career Scientist Travel Grant to attend the Vision Science Society annual meeting

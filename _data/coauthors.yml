@@ -1,3 +1,7 @@
+"Im": 
+  - firstname: ["Elizabeth", "Elizabeth Jiwon", "Jiwon"]
+    url: https://imelizabeth.github.io
+    
 "Isik":
   - firstname: ["Leyla"]
     url: https://www.isiklab.org
@@ -8,7 +12,7 @@
 
 "Garcia":
   - firstname: ["Kathy"]
-    url: https://cogsci.jhu.edu/directory/kathy-garcia/
+    url: https://garciakathy.github.io
 
 "Vaziri-Pashkam": 
   - firstname: ["Maryam"]
@@ -25,3 +29,11 @@
 "Conwell":
   - firstname: ["Colin", "Coco"]
     url: https://colinconwell.github.io
+
+"Pereira":
+  - firstname: ["Francisco"]
+    url: https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/francisco-pereira-phd
+
+"Thurman":
+  - firstname: ["Sabrina"]
+    url: https://www.elon.edu/u/academics/undergraduate-research/dr-sabrina-thurman/
