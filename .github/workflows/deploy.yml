@@ -1,46 +1,29 @@
-name: Deploy Jekyll site to Pages
-
+name: Deploy Jekyll site
 on:
   push:
-    branches: ["master"]
+    branches: [master]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug action versions
-        run: echo "Checking action versions..."
-        
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Important for submodules
-          
-      - name: Find problematic files
-        run: find . -type f -name "*.yml" -exec grep -l "upload-artifact" {} \; || echo "No v3 references found"
-        
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-          
       - uses: actions/configure-pages@v4
         id: pages
-        
       - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-          
-      - uses: actions/upload-pages-artifact@v1
-
+      - uses: actions/upload-pages-artifact@v2
   deploy:
     environment:
       name: github-pages
