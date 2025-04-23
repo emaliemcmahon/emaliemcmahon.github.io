@@ -2,16 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Cognitive Science. Johns Hopkins University.
 
 profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Krieger Hall 119</p>
-    <p>3400 N Charles St</p>
-    <p>Baltimore, MD 21218</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
